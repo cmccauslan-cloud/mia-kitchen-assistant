@@ -1,0 +1,14 @@
+﻿{
+  "name": "mia-kitchen-assistant",
+  "version": "1.0.0",
+  "description": "Backend bridge for Mia Kitchen Assistant — connects to Google Apps Script via Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
